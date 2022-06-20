@@ -28,8 +28,7 @@ The dataset downloaded was composed by two files that was joined using **Python*
   - Mean Absolute Error (MAE)
   - Root Mean Squared Error (RMSE)
 
+In order to minimaze the error for the analysis, I used the **Solver** in Microsoft Excel.
 
-SOLVER
 
-
-To see the final result of this project click [here](https://github.com/belabarbosa/Forecast-Project/blob/0edf563c45d713cd91d16e3ffd650adf1b13dea3/Forecast%20project.xlsx).
+To see the final project click [here](https://github.com/belabarbosa/Forecast-Project/blob/0edf563c45d713cd91d16e3ffd650adf1b13dea3/Forecast%20project.xlsx). And if you have any comments or sugestions to improve this project, please feel free to contact me here or on [my Linkedin](www.linkedin.com/in/irbarbosa)
