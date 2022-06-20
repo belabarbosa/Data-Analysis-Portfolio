@@ -10,11 +10,13 @@ This analysis is easy to implement compared to others, it is pretty simple to un
 Since the only data that you need is a **customer identification** (it could be the name, email address, phone number, client id number, etc), 
 **the date of their purchases** and **the amount of each purchase**, it can be used for many business segments.
 
+With this data, it is possible to calculate the number of transactions performed by each customer, the dates of their first and most recent purchases, 
+how many months have they been in the base and the average amount of their spent per month. 
+
 ### The process
 
-With this data, it is possible to calculate the number of transactions performed by each customer, the dates of their first and most recent purchases, 
-how many months have they been in the base and the average amount of their spent per month. For this project, since it was a small database, 
-I used Google Sheets and got these numbers with the following functions: **COUNTIF**, **MAXIFS**, **MINIIFS**, **DATEDIF** and **SUMIFS**. 
+For this project, since it was a small database, I used Google Sheets and got these numbers with the following functions: **UNIQUE**, **COUNTIF**, **MAXIFS**, **MINIIFS**, **DATEDIF** and **SUMIFS**.
+
 The next step was to rank the customers by recency, frequency and monetary value, using the **RANK** function and give them a score from 1 to 5, 
 using the **PERCENTILE** and **IF** functions. 
 
