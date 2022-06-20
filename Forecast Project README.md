@@ -13,9 +13,12 @@ The final product of this analysis is a spreadsheet because it is simple, easy t
 This project was based in the dataset available on Kaggle on this [link](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist?resource=download), along with a random report extracted from Google Analytics platform. 
 
 After extracting the data, it was transformed in a format that would make it easier for manipulating, using the function TRANSPOSE to populate the main spreadsheet.
-The dataset downloaded was composed by two files that was joined using Python and you can see the code bellow.
+The dataset downloaded was composed by two files that was joined using Python and you can see the code [here](https://github.com/belabarbosa/Forecast-Project/blob/0edf563c45d713cd91d16e3ffd650adf1b13dea3/Forecast%20Project%20code_Leads%20Data%20Analysis.ipynb).
 
 ### The Forecast
 Exponential Smoothing and Linear Regression
 Testar a acuracia Bias Forecast Error, Mean Absolute Percentage Error (MAPE), Media dos erros absolutos (MAE), RSME
 SOLVER
+
+
+To see the final result of this project click [here](https://github.com/belabarbosa/Forecast-Project/blob/0edf563c45d713cd91d16e3ffd650adf1b13dea3/Forecast%20project.xlsx).
