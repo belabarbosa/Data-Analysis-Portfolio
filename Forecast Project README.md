@@ -40,4 +40,4 @@ In order to minimaze the error for the analysis, I used the **Solver** in Micros
 
 ## See this project
 
-To see the final project click [here](https://github.com/belabarbosa/Forecast-Project/blob/0edf563c45d713cd91d16e3ffd650adf1b13dea3/Forecast%20project.xlsx). And if you have any comments or sugestions to improve this project, please feel free to contact me here or on [my Linkedin](www.linkedin.com/in/irbarbosa)
+To see the final project click [here](https://github.com/belabarbosa/Forecast-Project/blob/44b88f032bc11176aa24f3df20b45dd6624080a1/Forecast.xlsx). And if you have any comments or sugestions to improve this project, please feel free to contact me here or on [my Linkedin](www.linkedin.com/in/irbarbosa)
