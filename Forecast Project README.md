@@ -30,6 +30,14 @@ The dataset downloaded was composed by two files that was joined using **Python*
 
 In order to minimaze the error for the analysis, I used the **Solver** in Microsoft Excel.
 
+## Insights
+
+- **Paid leads**: The number of leads from paid ads will continue to grow, with Google Search being responsable for more than 90% of it.
+
+- **Organic leads**: The leads coming from organic channels are responsable for about 80% of the total sales. The company should continue to invest in organic campaings (SEO, blog, social, public release), in order to maintain this growth.
+
+- **Historial data**: It would be interesting to study the events that promoted the growth on the number of direct_traffic and organic leads from 2017-12 and beyond to see if it is possible to replicate this result.
+
 ## See this project
 
 To see the final project click [here](https://github.com/belabarbosa/Forecast-Project/blob/0edf563c45d713cd91d16e3ffd650adf1b13dea3/Forecast%20project.xlsx). And if you have any comments or sugestions to improve this project, please feel free to contact me here or on [my Linkedin](www.linkedin.com/in/irbarbosa)
